@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titan+One&color=F71A6E&background=F6FF96EE&center=true&vCenter=true&multiline=true&height=70&lines=Hi;I+am+Ali+Safarpoor+Dehkordi+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titan+One&color=F71A6E&background=F6FF96EE&center=true&vCenter=true&multiline=true&height=70&lines=Hi;I+am+Ali+Safarpoor+Dehkordi)](https://git.io/typing-svg)
 
 Currently, I am a master's student studying at [Sharif University of Technology](http://www.sharif.edu/). 
 
