@@ -5,7 +5,7 @@ Currently, I am a master's student studying at [Sharif University of Technology]
 - [GitHub Online Resume](https://resume.github.io/?aSafarpoor)
 - [Personal website and resoume'](http://ce.sharif.edu/~alisafarpoor/)
 
-Techincal Skills:
+Technical Skills:
 
 - **Python**:☺. 
 - **numpy,pandas,pytorch**:♪♫♪. 
