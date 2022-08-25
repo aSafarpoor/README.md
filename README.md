@@ -1,9 +1,13 @@
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titan+One&color=F71A6E&background=F6FF96EE&center=true&vCenter=true&multiline=true&height=70&lines=Hi;I+am+Ali+Safarpoor+Dehkordi)](https://git.io/typing-svg)
 
 Currently, I am a master's student studying at [Sharif University of Technology](http://www.sharif.edu/). 
 
 - [GitHub Online Resume](https://resume.github.io/?aSafarpoor)
-- [Personal website and resoume'](http://ce.sharif.edu/~alisafarpoor/)
+- [Personal Website and Resoume'](http://ce.sharif.edu/~alisafarpoor/)
+- [Profile Summary'](https://profile-summary-for-github.com/user/aSafarpoor)
+
 
 Technical Skills:
 
