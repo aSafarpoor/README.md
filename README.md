@@ -5,7 +5,6 @@
 Currently, I am a master's student studying at [Sharif University of Technology](http://www.sharif.edu/). 
 
 - [GitHub Online Resume](https://resume.github.io/?aSafarpoor)
-- [Personal Website and Resoume'](http://ce.sharif.edu/~alisafarpoor/)
 - [Profile Summary'](https://profile-summary-for-github.com/user/aSafarpoor)
 
 
